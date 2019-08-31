@@ -13,8 +13,8 @@
   * https://bitbucket.org/mbari/seestar/src/SeeStar_III/Documents/ 
   * 
   * See technical manual for the camera module which details what each signal is and how to control them here:
-  * https://bitbucket.org/mbari/seestar/src/SeeStar_III/Documents/ bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
+  * https://bitbucket.org/mbari/seestar/src/SeeStar_III/Documents/
+  
   Created 12/01/2017
   By D.Cline dcline at mbari.org
   Modified 12/01/2017
@@ -72,7 +72,6 @@ const time_t CFG_END_SECS = 0; // ending time in seconds, set to 0 to run foreve
 const recordingMode CFG_RECORDING_MODE = VIDEO;
 
 // default time for interval between pictures/video
-//const uint8_t CFG_INTERVAL = 180; // 3 minutes
 const uint8_t CFG_INTERVAL = 60; //80 30 minutes
 
 const eTIMER_TIMEBASE CFG_TIMEBASE = eTB_MINUTE; // eTB_SECOND, eTB_MINUTE, eTB_HOUR
