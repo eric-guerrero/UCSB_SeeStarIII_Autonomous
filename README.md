@@ -1,4 +1,4 @@
-# UCSB_SeeStarIII_Mk2
+# UCSB_SeeStarIII_Autonomous
 
 *Please refer to MBARI's most recent documentation of SeeStar's third generation of hardware and software. 
   (https://bitbucket.org/mbari/seestar/src/c7686e714579/SeeStar_III/)
