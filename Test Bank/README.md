@@ -3,7 +3,7 @@ https://bitbucket.org/mbari/seestar/src/c7686e714579/SeeStar_III/Software/Autono
 
 *Not every test from MBARI's Repo has been included within this sub-folder. It is UCSB's desire to not include SeeStar's GUI (Graphical User Interface), therefore Arduino sketches testing that functionality will not be found. MBARI's Repository does still have those sketches. 
 
-*To be non-repetative an explanation of each test's functionality maybe found on MBARI's repo, however an extensive explanation can be found within the test sketch itself
+*To be non-repetative an explanation of each test's functionality maybe found on MBARI's repo, however an extensive explanation can be found within each of test sketches.
 
 *Every test should be uploaded, tested, and documented on the SeeStar device. Test are recommended to be done in order from CamPowerOnOffTest --> WakeUpPeriodicallyTest. This will verify the operational status of compenet tested and will ease the testing of the next module.
 
