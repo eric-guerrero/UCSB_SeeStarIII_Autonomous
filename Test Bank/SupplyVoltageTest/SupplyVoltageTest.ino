@@ -1,6 +1,6 @@
 /* 
  Reads the SleepyPi voltage and prints out the voltage followed by a delimeter $.
- When voltage falls below the POWER_OFF_VOLTAGE, prints out message voltage ot too low. 
+ When voltage falls below the POWER_OFF_VOLTAGE, prints out message voltage ot too low
  For testing purposes only.
  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
  To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
