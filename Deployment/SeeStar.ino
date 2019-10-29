@@ -60,7 +60,7 @@ Timezone myTZ(usLOCALDT, usLOCALST);
 
 //  (optional) default time to start change to start at a specific time/date
 //DateTime start_datetime =  start_datetime(2017, 12, 8, 14, 44, 0);
-//DateTime end_datetime =  end_datetime(2017, 12, 8, 14, 50, 0);
+//DateTime end_datetime =  end_datetime(2017, 12, 8, 14, 50, 0)
 //const time_t CFG_START_SECS = myTZ.toUTC(time_t(start_datetime.unixtime()))
 //const time_t CFG_END_SECS = myTZ.toUTC(time_t(end_datetime.unixtime()))
 
