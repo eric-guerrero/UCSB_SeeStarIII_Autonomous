@@ -1,6 +1,6 @@
 /*
   Turns on SeeStar DC-DC converter which applies power to the SeeStar camera then repeats.
-  For testing purposes only.
+  For testing purposes only
   This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
   To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
   Modified by Eric Guerrero
