@@ -2,7 +2,7 @@
   Loop to test baseline power consumption with no camera turned on in SeeStar module.
   Turns on, disables external power on the SleepyPi, turns offs all relays and and puts 
   the microcontroller into a low power mode. Repeats this every 8 seconds.  For testing 
-  purposes only.
+  purposes only
   This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
   To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
   
