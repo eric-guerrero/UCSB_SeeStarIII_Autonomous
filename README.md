@@ -6,5 +6,5 @@
 
 - The purpose of this Git repository is to actively test, modify, and document any changes of SeeStar code starting from the beginning of   Summer 2019
 
-* Currently being managed by Eric Guerrero at University of California, Santa Barbara. 
+
 
