@@ -1,5 +1,5 @@
 /*
-  Turns on/off external 3.3/5V power on a button press. For testing purposes only.
+  Turns on/off external 3.3/5V power on a button press. For testing purposes only
   This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
   To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
   
