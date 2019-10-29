@@ -1,7 +1,7 @@
 /*
   Turns on SeeStar Camera, takes a 30 second video clip, delays 5 seconds, then repeats. For testing purposes only.
   Note - THE CAMERA needs to be in VIDEO RECORDING MODE, and have the Focus Mode set to Manual Focus MF
-  Set from the phone app PlayMemories Mobile
+  Set from the phone app PlayMemories Mobile.
   This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
   To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
   
