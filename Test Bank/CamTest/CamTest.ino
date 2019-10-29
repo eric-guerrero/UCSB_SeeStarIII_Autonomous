@@ -9,7 +9,7 @@
   Press C to execute the entire control sequence to take a picture, which is
   1. turn DC-DC converter on 2. delay 3. turn camera power on 4. delay for bootup 
   5. shutter camera 6. delay for shutter activation and reccording, and lastly
-  7. turn camera off 8. turn DC-DC converter off
+  7. turn camera off 8. turn DC-DC converter off.
   Press M to execute the entire control sequence to record a video, which is
   1. turn DC-DC converter on 2. delay 3. turn camera power on 4. delay for bootup 
   5. shutter camera 6. delay for video activation and reccording, and lastly
