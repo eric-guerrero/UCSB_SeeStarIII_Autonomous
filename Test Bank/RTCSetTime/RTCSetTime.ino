@@ -1,6 +1,6 @@
 
 /* 
- Sets the clock in response to serial port time message.
+ Sets the clock in response to serial port time message
  To use, open the Arduino Serial Monitor and type the new time in the format:
  
  hour(24-format):minute:second month day year
