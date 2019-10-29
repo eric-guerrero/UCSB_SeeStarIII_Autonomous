@@ -1,7 +1,7 @@
 /* 
  Sets the RTC alarm pin to wake up the Arduino every 10 seconds.
  Turns on, disables external power on the SleepyPi, turns off the LED, and puts the microcontroller
- into a low power mode. Wakes up and repeats this every 10 seconds.  For testing purposes only.
+ into a low power mode. Wakes up and repeats this every 10 seconds.  For testing purposes only
  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License.
  To view a copy of this license, see http://creativecommons.org/licenses/by-sa/4.0
  
